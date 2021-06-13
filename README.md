@@ -1,7 +1,7 @@
 # Hello there 👋
 
 - 🚀 Aiming for CS
-- 👩‍💻 Current stack: reactjs + expressjs + tailwindcss + mysql/mariadb
+- 👩‍💻 Current stack: react (nextjs) + express + tailwindcss + mysql/mariadb
 <br><br>
 
 # Stats if you're curious
