@@ -2,6 +2,7 @@
 
 - 🚀 Aiming for CS
 - 👩‍💻 Current stack: react (nextjs) + express + tailwindcss + mysql/mariadb
+- 🔒 Most of my repos are web apps for clients, thus why they're private
 <br><br>
 
 # Stats if you're curious
